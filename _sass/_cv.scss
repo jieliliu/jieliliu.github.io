@@ -190,6 +190,13 @@ ul.timeline li::before {
   top: -0.5rem;
 }
 
+.cv-date-badge {
+  mid-width: 75px;
+  max-width: 100%;
+  padding: 0.35rem 0.5rem;
+  line-height: 1.25;
+  white-space: normal;
+}
 /*ul.timeline::before {
      content: "●";
      font-size: 1em;
