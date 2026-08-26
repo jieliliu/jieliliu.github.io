@@ -2,96 +2,220 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Jieli Liu
+    - name: Email
+      value: <a href="mailto:liujiel@iu.edu">liujiel@iu.edu</a>
+    - name: Google Scholar
+      value: <a href="https://scholar.google.com/citations?user=YCm5exUAAAAJ&hl=en">View profile</a>
+    - name: Location
+      value: Bloomington, Indiana, USA
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Candidate in Information Science; Minor in Computer Science
+      institution: Indiana University Bloomington, Bloomington, Indiana, USA
+      year: Expected 2027
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "Research Committee: Pnina Fichman (Chair), Noriko Hara, Yuerong Hu, and David Crandall (Minor Advisor)"
+    - title: Master of Library and Information Science
+      institution: Peking University, Beijing, China
+      year: 2021
+    - title: Bachelor of Management in Library and Information Science, with Honors
+      institution: Sun Yat-sen University, Guangzhou, China
+      year: 2018
 
-- title: Experience
+- title: Research and Professional Interests
+  type: list
+  contents:
+    - Academic libraries; reference and research services; information literacy and instruction; equity in virtual reference; responsible AI in libraries; health information behavior; science communication; computational social science.
+
+- title: Library and Information Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Librarian Intern
+      institution: Guangzhou Library, Guangzhou, China
+      year: July 2017 – September 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Completed rotations in Reference and Instruction, Children and Teen Services, and Reading Promotion.
+        - Assisted patrons at the reference desk, supported educational programs for children and caregivers, and created promotional materials for reading initiatives.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Associate Instructor
+      institution: Indiana University Bloomington, Bloomington, Indiana, USA
+      year: 2022 – 2026
+      description:
+        - "Courses: Resources and Services for People with Disabilities; Digital Library; Social Media Mining; Information Visualization; Social Aspects of Information Technology."
+    - title: Teaching Assistant, Information Organization
+      institution: Peking University, Beijing, China
+      year: Fall 2018 – Spring 2021
+      description:
+        - Facilitated discussion sections, responded to student questions, and provided assignment feedback in both in-person and remote formats.
+        - Coordinated Zoom-based study groups and supported communication and peer learning during remote instruction.
+    - title: Undergraduate and Graduate Student Instructor
+      institution: Peking University, Beijing, China
+      year: September 2019 – December 2020
+      description:
+        - Designed and led weekly research seminars for four undergraduate students and one graduate student.
+        - Advised students on research design, method selection, and relevant literature.
+
+- title: Professional and Industry Experience
+  type: time_table
+  contents:
+    - title: Product Manager Intern, Daocan (Dine-in) Business Team
+      institution: Meituan Inc., Beijing, China
+      year: January 2021 – March 2021
+      description:
+        - Synthesized user research into product requirement documents for user-centered menu features.
+        - Queried and analyzed behavioral data using SQL to inform interface decisions and purchase-conversion strategy.
+    - title: Product Manager Intern, Scientific Wikipedia Project Team
+      institution: Sogou Inc., Beijing, China
+      year: January 2020 – September 2020
+      description:
+        - Conducted competitive analysis of more than ten content products and user-generated-content platforms.
+        - Developed interface prototypes, improved the organization and findability of a core information module, and designed contributor-engagement strategies.
+
+- title: Service and Volunteer Experience
+  type: time_table
+  contents:
+    - title: Volunteer, Public Service Learning Project for Library Reconstruction
+      institution: Beichuan County Library, Beichuan, China
+      year: July 2015 – August 2015
+      description:
+        - Co-designed and co-taught community workshops with a volunteer team and used post-session debriefs to improve later instruction.
+        - Developed reading activities for children and adapted digital-literacy lessons for older adults.
+    - title: Volunteer, Reading Program
+      institution: Guangdong Juvenile Detention Center, Guangzhou, China
+      year: December 2015
+      description:
+        - Facilitated reading activities for youth, adapting instruction to support continued learning and community reentry.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2025
+      items:
+        - Luddy Outstanding Service Award, Indiana University Bloomington
+    - year: 2024
+      items:
+        - Jose Blakeley PhD Summer Research Award
+        - Luddy Outstanding Research Award, Indiana University Bloomington
+    - year: 2023
+      items:
+        - Luddy Outstanding Service Award, Indiana University Bloomington
+        - Luddy Doctoral Summer Fellowship, Indiana University Bloomington
+    - year: 2022
+      items:
+        - Luddy Doctoral Summer Fellowship, Indiana University Bloomington
+    - year: 2021
+      items:
+        - Luddy Doctoral AI Fellowship, Indiana University Bloomington
+    - year: 2016, 2017
+      items:
+        - National Scholarship, Ministry of Education of China
 
-- title: Academic Interests
+- title: Research and Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Research Methods
       items:
-        - Description 1.
-        - Description 2.
+        - Mixed methods, content analysis, interviews, network analysis, statistical analysis, and surveys
+    - title: Programming and Analysis
+      items:
+        - Python, R, Stata, SQL, NVivo, and SPSS
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# -----------------------------------------------------------------------------
+# ORIGINAL TEMPLATE EXAMPLES RETAINED AS COMMENTS FOR FUTURE REFERENCE
+# Uncomment and adapt only when you have corresponding information.
+# -----------------------------------------------------------------------------
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Albert Einstein
+#     - name: Date of Birth
+#       value: 14th March 1879
+#     - name: Languages
+#       value: English, German
+#
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1905
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Federal teaching diploma
+#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+#       year: 1900
+#       description:
+#         - Description 1.
+#         - Description 2.
+#
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
+#
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+#
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1
+#       items:
+#         - Description 1
+#         - Description 2
+#
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

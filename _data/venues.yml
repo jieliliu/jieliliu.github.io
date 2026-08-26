@@ -1,6 +1,26 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ASIS&T":
+  url: https://www.asist.org/
+  color: "#2b5d85"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ASIS&T MYC":
+  url: https://www.asist.org/meetings-events/my23/
+  color: "#2b5d85"
+
+"RSR":
+  url: https://www.emeraldgrouppublishing.com/journal/rsr
+  color: "#1f6f43"
+
+"LJ":
+  url: https://www.libraryjournal.com.cn/
+  color: "#8a4b2a"
+
+"iConference":
+  url: https://www.ischools.org/iconference
+  color: "#5d4777"
+
+# ORIGINAL TEMPLATE EXAMPLES RETAINED AS COMMENTS:
+# "AJP":
+#   url: https://aapt.scitation.org/journal/ajp
+#   color: "#00369f"
+# "PhysRev":
+#   url: https://journals.aps.org/

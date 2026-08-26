@@ -8,15 +8,15 @@ middle_name:
 last_name: Liu
 email: liujiel@iu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Academic website of Jieli Liu, a PhD candidate in Information Science whose work examines
+  academic libraries, equitable reference services, responsible AI, and science communication.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: academic libraries, information science, virtual reference, responsible AI, science communication, Jieli Liu
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 📚  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://jieliliu.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -35,7 +35,7 @@ highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-them
 repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
 
@@ -45,7 +45,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -71,13 +71,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: jieliliu
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: YCm5exUAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -107,7 +107,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is by email at <a href="mailto:liujiel@iu.edu">liujiel@iu.edu</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -123,14 +123,19 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+# Template blog settings retained for future use:
+# blog_name: notes
+# blog_nav_title: blog
+# blog_description: writing about libraries, information, and technology
+blog_name:
+blog_nav_title:
+blog_description:
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  # Template default: enabled: true
+  enabled: false
 
 related_blog_posts:
   enabled: true
@@ -159,9 +164,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# Template external-source example retained for future use:
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@your-account/feed
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -171,19 +178,19 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -208,9 +215,50 @@ kramdown:
 include: ['_pages']
 exclude:
   - bin
+  # Repository and development files retained outside the deployed site.
+  - CONTRIBUTING.md
+  - Dockerfile
+  - assets/jupyter
+  - docker-compose.yml
+  - docker-local.yml
   - Gemfile
   - Gemfile.lock
+  - LICENSE
+  - README.md
   - vendor
+  # Disabled al-folio sample assets retained in the repository for future use.
+  - assets/audio
+  - assets/bibliography
+  - assets/css/jupyter-grade3.css
+  - assets/css/jupyter-monokai.css
+  - assets/css/jupyter.css
+  - assets/img/1.jpg
+  - assets/img/2.jpg
+  - assets/img/3.jpg
+  - assets/img/4.jpg
+  - assets/img/5.jpg
+  - assets/img/6.jpg
+  - assets/img/7.jpg
+  - assets/img/8.jpg
+  - assets/img/9.jpg
+  - assets/img/10.jpg
+  - assets/img/11.jpg
+  - assets/img/12.jpg
+  - assets/img/al-folio-preview.png
+  - assets/img/code-screenshot.png
+  - assets/img/distill-screenshot.png
+  - assets/img/math-screenshot.png
+  - assets/img/pagespeed.svg
+  - assets/img/photos-screenshot.png
+  - assets/img/prof_pic.jpg
+  - assets/img/projects-screenshot.png
+  - assets/img/publications-screenshot.png
+  - assets/json
+  - assets/pdf/example_pdf.pdf
+  - assets/plotly
+  - assets/video
+  # Internal planning notes; keep in the repository but out of the public site.
+  - website-future-materials.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -240,6 +288,17 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  # Keep the template posts and announcements in the repository without publishing them.
+  - scope:
+      path: ""
+      type: posts
+    values:
+      published: false
+  - scope:
+      path: ""
+      type: news
+    values:
+      published: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -265,8 +324,11 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+# Template blog taxonomy retained for future use:
+# display_tags: ['libraries', 'research', 'teaching']
+# display_categories: ['notes']
+display_tags: []
+display_categories: []
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -274,8 +336,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Liu]
+  first_name: [Jieli, J.]
 
   style: apa
   locale: en
@@ -307,7 +369,7 @@ badges: # Display different badges for your publications
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3  # leave blank to always show all authors
+max_author_limit: 10  # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 
@@ -367,7 +429,7 @@ enable_tooltips:            false  # enables automatic tooltip links generated
 enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
+enable_project_categories:  false  # template project cards are retained but not published
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
@@ -410,19 +472,23 @@ medium_zoom:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+# The original JSON Resume template remains at assets/json/resume.json, but is
+# disabled so the CV page renders Jieli's information from _data/cv.yml.
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json
+# jsonresume:
+#   - basics
+#   - work
+#   - education
+#   - publications
+#   - projects
+#   - volunteer
+#   - awards
+#   - certificates
+#   - skills
+#   - languages
+#   - interests
+#   - references
+jekyll_get_json: []
+jsonresume: []

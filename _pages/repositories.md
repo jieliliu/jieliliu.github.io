@@ -3,9 +3,15 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-nav: true
+nav: false
+published: false
 nav_order: 3
 ---
+
+{% comment %}
+TEMPLATE REPOSITORY PAGE RETAINED FOR FUTURE USE.
+Set `published: true` and `nav: true`, then populate `_data/repositories.yml`,
+when you have repositories that support your academic profile.
 
 ## GitHub users
 
@@ -42,3 +48,4 @@ nav_order: 3
   {% endfor %}
 </div>
 {% endif %}
+{% endcomment %}

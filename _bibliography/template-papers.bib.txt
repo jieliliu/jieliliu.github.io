@@ -1,0 +1,78 @@
+% ORIGINAL AL-FOLIO BIBLIOGRAPHY EXAMPLES -- DISABLED TEMPLATE REFERENCE
+% This file deliberately uses the .txt extension so Jekyll Scholar ignores it.
+% Rename individual records into papers.bib only if they are useful as syntax
+% examples; do not publish them as Jieli Liu's work.
+
+@string{aps = {American Physical Society,}}
+
+@book{einstein1956investigations,
+  bibtex_show = {true},
+  title = {Investigations on the Theory of the Brownian Movement},
+  author = {Einstein, Albert},
+  year = {1956},
+  publisher = {Courier Corporation},
+  preview = {brownian-motion.gif}
+}
+
+@article{einstein1950meaning,
+  abbr = {AJP},
+  bibtex_show = {true},
+  title = {The Meaning of Relativity},
+  author = {Einstein, Albert and Taub, AH},
+  journal = {American Journal of Physics},
+  volume = {18},
+  number = {6},
+  pages = {403--404},
+  year = {1950},
+  publisher = {American Association of Physics Teachers}
+}
+
+@article{PhysRev.47.777,
+  abbr = {PhysRev},
+  title = {Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
+  author = {Einstein, A. and Podolsky, B. and Rosen, N.},
+  journal = {Phys. Rev.},
+  volume = {47},
+  issue = {10},
+  pages = {777--780},
+  year = {1935},
+  month = {May},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRev.47.777},
+  html = {https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
+  selected = {true}
+}
+
+@article{einstein1905molekularkinetischen,
+  title = {{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
+  author = {Einstein, A.},
+  journal = {Annalen der Physik},
+  volume = {322},
+  number = {8},
+  pages = {549--560},
+  year = {1905}
+}
+
+@article{einstein1905movement,
+  title = {On the Movement of Small Particles Suspended in Stationary Liquids Required by the Molecular-Kinetic Theory of Heat},
+  author = {Einstein, A.},
+  journal = {Annalen der Physik},
+  volume = {17},
+  pages = {549--560},
+  year = {1905}
+}
+
+@article{einstein1905electrodynamics,
+  title = {On the Electrodynamics of Moving Bodies},
+  author = {Einstein, A.},
+  year = {1905}
+}
+
+@book{przibram1967letters,
+  bibtex_show = {true},
+  title = {Letters on Wave Mechanics},
+  author = {Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
+  year = {1967},
+  publisher = {Vision},
+  preview = {wave-mechanics.gif}
+}
