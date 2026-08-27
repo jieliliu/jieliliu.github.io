@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: Research connecting library practice, information equity, and emerging technologies.
 nav: true

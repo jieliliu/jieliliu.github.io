@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: University teaching and learner-centered instruction in library and information science.
 nav: true
 nav_order: 3

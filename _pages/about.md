@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate in Information Science at <a href='https://luddy.indiana.edu/'>Indiana University Bloomington</a>
 

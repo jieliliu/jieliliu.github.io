@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Peer-reviewed articles, conference and workshop proceedings, and a book chapter.
 nav: true
 nav_order: 2
