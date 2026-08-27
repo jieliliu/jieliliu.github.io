@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Information Science at <a href='https://luddy.indiana
 
 profile:
   align: right
-  image: head.png
+  image: liu-2026.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Information and Library Science</p>
