@@ -8,10 +8,10 @@ profile:
   align: right
   image: liu-2026.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Department of Information and Library Science</p>
-    <p>Indiana University Bloomington</p>
-    <p>Bloomington, Indiana, USA</p>
+  # address: >
+  #   <p>Department of Information and Library Science</p>
+  #   <p>Indiana University Bloomington</p>
+  #   <p>Bloomington, Indiana, USA</p>
 
 news: false  # template news is retained but hidden until real announcements are added
 latest_posts: false  # template blog posts are retained but hidden until original posts are added
