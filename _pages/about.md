@@ -19,13 +19,63 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am **Jieli Liu**, a PhD candidate in Information Science with a minor in Computer Science at Indiana University Bloomington. My work connects information science research with the practice of academic and public libraries.
+Hello! I am **Jieli Liu**; my Chinese name is 刘洁丽. 
+A quick pronunciation tip: by my admittedly informal estimate, 
+pronouncing “Jieli” like “Jelly” achieves roughly 90% accuracy.
 
-My research examines **equity in virtual reference services**, **responsible uses of artificial intelligence in libraries**, **science communication**, and **online public engagement**. I am particularly interested in how libraries can evaluate emerging technologies beyond surface-level use, understand the systems that support them, and adopt them in ways that are useful, inclusive, and ethically responsible.
+My hometown is Shaoguan, Guangdong, China, 
+where I spent my childhood and teenage years. 
+Mount Danxia, a UNESCO World Heritage Site known for its striking red sandstone cliffs, 
+is a must-visit attraction in my hometown.
 
-Alongside my research, I have taught courses in information and library science, supported learners in both in-person and online settings, and contributed to community programs serving children, older adults, and justice-involved youth. These experiences shape my commitment to learner-centered instruction, accessible information services, and community engagement.
+I earned a Bachelor of Management in Library and Information Science 
+from Sun Yat-sen University in Guangzhou, Guangdong, China. 
+My thesis, The European Union Digital Competence Framework for Citizens: Origin, Development, and Implementation Research, 
+was supervised by [Dr. Qiong Tang](https://ischool.sysu.edu.cn/zh-hans/teacher/tangqiong) 
+and received Sun Yat-sen University’s Best Bachelor’s Thesis Award in 2018. 
+Qiong introduced me to the excitement of doing research and inspired me to pursue further study in library and information science.
 
-You can learn more through my [research](/research/), [publications](/publications/), [teaching](/teaching/), and [CV](/cv/), or contact me at [liujiel@iu.edu](mailto:liujiel@iu.edu).
+I earned a Master of Library and Information Science from Peking University in Beijing, China. 
+There, I worked with [Dr. Pengyi Zhang](https://www.linkedin.com/in/zhangpengyi/) on knowledge sharing, 
+online communities, and user studies. 
+Pengyi supported me throughout my master’s program and has continued to encourage me during my doctoral studies. 
+Her commitment to rigorous research and scholarly diligence has profoundly shaped my development as a scholar.
+
+I am currently a PhD candidate in Information Science at Indiana University Bloomington, 
+advised by [Dr. Pnina Fichman](https://luddy.iu.edu/people/fichman-pnina.html). 
+With Pnina’s support, I have pursued research in social informatics and library and information science. 
+My dissertation examines generative AI adoption in leading academic libraries, 
+with a particular focus on the factors influencing adoption within technological, organizational, and environmental contexts. 
+My work will contribute to a better understanding of how academic libraries adopt emerging technologies and shed light on how they can adopt generative AI responsibly.
+
+Alongside my research, I have taught and supported courses 
+in library and information science, including Digital Libraries, 
+Resources and Services for People with Disabilities, 
+Social Media Mining, Information Visualization, 
+Social Aspects of Information Technology, and Information Organization.
+
+Beyond research and teaching, I have also contributed to library practice and community-based programs. 
+As a librarian intern at Guangzhou Library in Guangzhou, Guangdong, China, 
+I answered library users’ questions about collections and services. 
+I also volunteered in a service-learning program 
+supporting the post-earthquake rebuilding of Beichuan County Library in Beichuan, Sichuan, China. 
+There, I helped develop digital literacy workshops for older adults 
+who wanted to use computers and smartphones to communicate with family members in other cities, 
+as well as activities introducing children to age-appropriate library and digital resources. 
+I also facilitated reading-promotion sessions at a juvenile detention center. 
+These experiences shape my commitment to learner-centered instruction, accessible information services, and community engagement.
+
+Outside my work, I enjoy knitting and crocheting, 
+especially making stuffed animals and creating tiny outfits for them. 
+I also enjoy hiking, playing pickleball, and playing badminton.
+
+I am currently on the job market, 
+seeking academic librarian positions and research roles in academia or industry. 
+I welcome conversations about my research, teaching, or other opportunities for collaboration. 
+The best way to reach me is by email at [liujiel@iu.edu](mailto:liujiel@iu.edu).
+Please feel free to explore the [Publications](/publications/), [Teaching](/teaching/), and [CV](/cv/) pages 
+to learn more about my work and experience.
+
 
 <!-- TEMPLATE GUIDANCE RETAINED FOR FUTURE CUSTOMIZATION:
 Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
