@@ -23,10 +23,10 @@ Hello! I am **Jieli Liu**; my Chinese name is 刘洁丽.
 A quick pronunciation tip: by my admittedly informal estimate, 
 pronouncing “Jieli” like “Jelly” achieves roughly 90% accuracy.
 
-My hometown is Shaoguan, Guangdong, China, 
-where I spent my childhood and teenage years. 
-Mount Danxia, a UNESCO World Heritage Site known for its striking red sandstone cliffs, 
-is a must-visit attraction in my hometown.
+#My hometown is Shaoguan, Guangdong, China, 
+#where I spent my childhood and teenage years. 
+#Mount Danxia, a UNESCO World Heritage Site known for its striking red sandstone cliffs, 
+#is a must-visit attraction in my hometown.
 
 I earned a Bachelor of Management in Library and Information Science 
 from Sun Yat-sen University in Guangzhou, Guangdong, China. 
@@ -43,27 +43,27 @@ Her commitment to rigorous research and scholarly diligence has profoundly shape
 
 I am currently a PhD candidate in Information Science at Indiana University Bloomington, 
 advised by [Dr. Pnina Fichman](https://luddy.iu.edu/people/fichman-pnina.html). 
-With Pnina’s support, I have pursued research in social informatics and library and information science. 
-My dissertation examines generative AI adoption in leading academic libraries, 
+With Pnina’s support, I have pursued research in **social informatics** and **library and information science**. 
+My dissertation examines **generative AI adoption in leading academic libraries**, 
 with a particular focus on the factors influencing adoption within technological, organizational, and environmental contexts. 
 My work will contribute to a better understanding of how academic libraries adopt emerging technologies and shed light on how they can adopt generative AI responsibly.
 
 Alongside my research, I have taught and supported courses 
-in library and information science, including Digital Libraries, 
-Resources and Services for People with Disabilities, 
-Social Media Mining, Information Visualization, 
-Social Aspects of Information Technology, and Information Organization.
+in library and information science, including **Digital Libraries**, 
+**Resources and Services for People with Disabilities**, 
+**Social Media Mining, Information Visualization**, 
+**Social Aspects of Information Technology**, and **Information Organization**.
 
 Beyond research and teaching, I have also contributed to library practice and community-based programs. 
-As a librarian intern at Guangzhou Library in Guangzhou, Guangdong, China, 
+As a librarian intern at **Guangzhou Library** in Guangzhou, Guangdong, China, 
 I answered library users’ questions about collections and services. 
 I also volunteered in a service-learning program 
-supporting the post-earthquake rebuilding of Beichuan County Library in Beichuan, Sichuan, China. 
+supporting the post-earthquake rebuilding of **Beichuan County Library** in Beichuan, Sichuan, China. 
 There, I helped develop digital literacy workshops for older adults 
 who wanted to use computers and smartphones to communicate with family members in other cities, 
 as well as activities introducing children to age-appropriate library and digital resources. 
-I also facilitated reading-promotion sessions at a juvenile detention center. 
-These experiences shape my commitment to learner-centered instruction, accessible information services, and community engagement.
+I also facilitated reading-promotion sessions at a **juvenile detention center**. 
+These experiences shape my commitment to **learner-centered instruction**, **accessible information services**, and **community engagement**.
 
 Outside my work, I enjoy knitting and crocheting, 
 especially making stuffed animals and creating tiny outfits for them. 
@@ -73,6 +73,7 @@ I am currently on the job market,
 seeking academic librarian positions and research roles in academia or industry. 
 I welcome conversations about my research, teaching, or other opportunities for collaboration. 
 The best way to reach me is by email at [liujiel@iu.edu](mailto:liujiel@iu.edu).
+
 Please feel free to explore the [Publications](/publications/), [Teaching](/teaching/), and [CV](/cv/) pages 
 to learn more about my work and experience.
 
