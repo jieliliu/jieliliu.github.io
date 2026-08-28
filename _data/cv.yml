@@ -25,10 +25,10 @@
       institution: Sun Yat-sen University, Guangzhou, China
       year: 2018
 
-- title: Research and Professional Interests
-  type: list
-  contents:
-    - Academic libraries; reference and research services; information literacy and instruction; equity in virtual reference; responsible AI in libraries; health information behavior; science communication; computational social science.
+#- title: Research and Professional Interests
+#  type: list
+#  contents:
+#    - Academic libraries; reference and research services; information literacy and instruction; equity in virtual reference; responsible AI in libraries; health information behavior; science communication; computational social science.
 
 - title: Library and Information Experience
   type: time_table
