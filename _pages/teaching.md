@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-My teaching is grounded in a learner-centered approach: I adapt instruction to students' backgrounds and access needs, invite feedback through conversation and surveys, and use that feedback to refine later sessions. My experience includes university courses as well as community instruction for children, older adults, and justice-involved youth.
+My teaching is grounded in a learner-centered approach: I adapt instruction to students' backgrounds and access needs, invite feedback through conversation and surveys, and use that feedback to refine later sessions. 
 
 ## Indiana University Bloomington
 
