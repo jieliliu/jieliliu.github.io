@@ -87,12 +87,21 @@ let transTheme = () => {
   }, 500);
 };
 
+# Original theme follow system preference
+# let initTheme = (theme) => {
+#  if (theme == null || theme == "null") {
+#    const userPref = window.matchMedia;
+#    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
+#      theme = "dark";
+#    }
+#  }
+#
+#  setTheme(theme);
+#};
+
 let initTheme = (theme) => {
   if (theme == null || theme == "null") {
-    const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
-      theme = "dark";
-    }
+    theme = "light";
   }
 
   setTheme(theme);
