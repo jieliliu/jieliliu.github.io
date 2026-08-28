@@ -23,11 +23,6 @@ Hello! I am **Jieli Liu**; my Chinese name is 刘洁丽.
 A quick pronunciation tip: by my admittedly informal estimate, 
 pronouncing “Jieli” like “Jelly” achieves roughly 90% accuracy.
 
-#My hometown is Shaoguan, Guangdong, China, 
-#where I spent my childhood and teenage years. 
-#Mount Danxia, a UNESCO World Heritage Site known for its striking red sandstone cliffs, 
-#is a must-visit attraction in my hometown.
-
 I earned a Bachelor of Management in Library and Information Science 
 from Sun Yat-sen University in Guangzhou, Guangdong, China. 
 My thesis, The European Union Digital Competence Framework for Citizens: Origin, Development, and Implementation Research, 
@@ -46,7 +41,8 @@ advised by [Dr. Pnina Fichman](https://luddy.iu.edu/people/fichman-pnina.html).
 With Pnina’s support, I have pursued research in **social informatics** and **library and information science**. 
 My dissertation examines **generative AI adoption in leading academic libraries**, 
 with a particular focus on the factors influencing adoption within technological, organizational, and environmental contexts. 
-My work will contribute to a better understanding of how academic libraries adopt emerging technologies and shed light on how they can adopt generative AI responsibly.
+My work will contribute to a better understanding of how academic libraries 
+adopt emerging technologies and shed light on how they can adopt generative AI responsibly.
 
 Alongside my research, I have taught and supported courses 
 in library and information science, including **Digital Libraries**, 
