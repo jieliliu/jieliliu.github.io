@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 description: Research connecting library practice, information equity, and emerging technologies.
-nav: true
+nav: false
 nav_order: 1
 # Template project-card settings retained for future use:
 # display_categories: [work, fun]
