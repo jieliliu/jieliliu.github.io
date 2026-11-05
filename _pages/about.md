@@ -19,7 +19,7 @@ profile:
 
 news: false  # template news is retained but hidden until real announcements are added
 latest_posts: false  # template blog posts are retained but hidden until original posts are added
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -78,11 +78,11 @@ I also enjoy hiking, playing pickleball, and playing badminton.
 {% endcomment %}
 
 I am currently on the job market, 
-seeking academic librarian positions and research roles in academia or industry. 
+seeking research roles in academia or industry and academic librarian positions. 
 I welcome conversations about my research, teaching, or other opportunities for collaboration. 
 The best way to reach me is by email at [liujiel@iu.edu](mailto:liujiel@iu.edu).
 
-Please feel free to explore the [Publications](/publications/), [Teaching](/teaching/), and [CV](/cv/) pages 
+Please feel free to explore the [Research](/publications/), [Teaching](/teaching/), and [CV](/cv/) pages 
 to learn more about my work and experience.
 
 

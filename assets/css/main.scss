@@ -30,7 +30,7 @@ $max-content-width: {{ site.max_width }};
 }
 
 .home-subtitle a {
-  color: inherit;
+  color: var(--global-theme-color);
   text-decoration-color: rgba(111, 48, 66, 0.45);
   text-underline-offset: 0.16em;
 }
