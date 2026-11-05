@@ -2,7 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate in Information Science at <a href='https://luddy.indiana.edu/'>Indiana University Bloomington</a>
+subtitle: >-
+  <span class="home-subtitle">
+    PhD Candidate in Information Science at 
+    <a href='https://luddy.indiana.edu/'>Indiana University Bloomington</a>
+  </span>
 
 profile:
   align: right
@@ -28,28 +32,35 @@ from Sun Yat-sen University in Guangzhou, Guangdong, China.
 My thesis, The European Union Digital Competence Framework for Citizens: Origin, Development, and Implementation Research, 
 was supervised by [Dr. Qiong Tang](https://ischool.sysu.edu.cn/zh-hans/teacher/tangqiong) 
 and received Sun Yat-sen University’s Best Bachelor’s Thesis Award in 2018. 
+{% comment %}
 Qiong introduced me to the excitement of doing research and inspired me to pursue further study in library and information science.
+{% endcomment %}
 
 I earned a Master of Library and Information Science from Peking University in Beijing, China. 
 There, I worked with [Dr. Pengyi Zhang](https://www.linkedin.com/in/zhangpengyi/) on knowledge sharing, 
 online communities, and user studies. 
+{% comment %}
 Pengyi supported me throughout my master’s program and has continued to encourage me during my doctoral studies. 
 Her commitment to rigorous research and scholarly diligence has profoundly shaped my development as a scholar.
+{% endcomment %}
 
 I am currently a PhD candidate in Information Science at Indiana University Bloomington, 
 advised by [Dr. Pnina Fichman](https://luddy.iu.edu/people/fichman-pnina.html). 
-With Pnina’s support, I have pursued research in **social informatics** and **library and information science**. 
-My dissertation examines **generative AI adoption in leading academic libraries**, 
+My research spans **social informatics** and **library and information science**. 
+My dissertation examines **organizational generative AI adoption in leading academic libraries**, 
 with a particular focus on the factors influencing adoption within technological, organizational, and environmental contexts. 
 My work will contribute to a better understanding of how academic libraries 
 adopt emerging technologies and shed light on how they can adopt generative AI responsibly.
 
+{% comment %}
 Alongside my research, I have taught and supported courses 
 in library and information science, including **Digital Libraries**, 
 **Resources and Services for People with Disabilities**, 
 **Social Media Mining, Information Visualization**, 
 **Social Aspects of Information Technology**, and **Information Organization**.
+{% endcomment %}
 
+{% comment %}
 Beyond research and teaching, I have also contributed to library practice and community-based programs. 
 As a librarian intern at **Guangzhou Library** in Guangzhou, Guangdong, China, 
 I answered library users’ questions about collections and services. 
@@ -64,6 +75,7 @@ These experiences shape my commitment to **learner-centered instruction**, **acc
 Outside my work, I enjoy knitting and crocheting, 
 especially making stuffed animals and creating tiny outfits for them. 
 I also enjoy hiking, playing pickleball, and playing badminton.
+{% endcomment %}
 
 I am currently on the job market, 
 seeking academic librarian positions and research roles in academia or industry. 
